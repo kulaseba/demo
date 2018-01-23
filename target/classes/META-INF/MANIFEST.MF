@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1516639157090
+Build-Jdk: 1.8.0_151
+Built-By: balakrishnan.kulasek
+Bundle-Description: A simple Camel route in Karaf container
+Bundle-ManifestVersion: 2
+Bundle-Name: Fabric8 :: Quickstarts :: Karaf :: Camel Log
+Bundle-SymbolicName: com.cgi.openshift.demo
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Import-Package: org.osgi.service.blueprint;version="[1.0.0,2.0.0)"
+Tool: Bnd-1.50.0

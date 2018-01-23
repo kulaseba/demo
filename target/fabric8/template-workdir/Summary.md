@@ -1,0 +1,1 @@
+A simple Camel route in Karaf container
