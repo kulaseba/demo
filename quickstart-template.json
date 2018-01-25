@@ -8,12 +8,12 @@
       "iconClass": "icon-java"
     },
     "labels": {},
-    "name": "s2i-quickstart-karaf-camel-log"
+    "name": "s2i-cgi-karaf-camel-log"
   },
   "parameters": [
     {
       "name": "APP_NAME",
-      "value": "s2i-quickstart-karaf-camel-log",
+      "value": "s2i-cgi-karaf-camel-log",
       "description": "Application Name"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "name": "SERVICE_NAME",
-      "value": "s2i-qs-karaf-camel-log",
+      "value": "s2i-cgi-karaf-camel-log",
       "description": "Exposed Service name"
     },
     {
